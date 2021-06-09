@@ -15,5 +15,6 @@
         "psr-4": {
             "User\\Client\\": "src/User/Client"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
