@@ -8,12 +8,12 @@
             "email": "yang@123.com"
         }
     ],
-    "prefer-stable": "true",
     "require": {
         "php": ">=7.0"
     },
     "autoload": {
-    "psr-4": {
-        "User\\Client\\": "src/User/Client"
+        "psr-4": {
+            "User\\Client\\": "src/User/Client"
+        }
     }
 }
