@@ -1,0 +1,19 @@
+{
+    "name": "shushushushushu/test",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "yang",
+            "email": "yang@123.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "User\\Client\\": "src/User/Client"
+        }
+    }
+}
